@@ -8,16 +8,16 @@ var fruits = ["apple","banana","mango","pineapple"]
 
 fruit[2] // get the fruit at the 2nd place
 
-team[3] = "avocado" // change 
+fruit[3] = "avocado" // change 
 
-team.count // count the number of items in the list
+fruit.count // count the number of items in the list
 
-team.isEmpty 
+fruit.isEmpty 
 
-team.append("mango") 
+fruit.append("mango") 
 
 
-team.sort() // sort in alphabetical order
+fruit.sort() // sort in alphabetical order
 
-team.removeAll() // remove all elements from the array
+fruit.removeAll() // remove all elements from the array
 
