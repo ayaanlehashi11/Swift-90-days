@@ -1,7 +1,14 @@
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=plastic&logo=ios&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=macos&logoColor=F0F0F0)
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=plastic&logo=apple&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=plastic&logo=app-store&logoColor=white)
 # Swift-30-days
+
 I was learning swift since 2019
 most of the time I was a windows and linux user but now I am willing to move to macos,
-
 having a good grasp in languages such as java and python
 though swift is slightly syntactically and philosophically different than python or java
 but the motivation of learning is same.
