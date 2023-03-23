@@ -1,5 +1,4 @@
 # Swift-30-days
-
 I was learning swift since 2019
 most of the time I was a windows and linux user but now I am willing to move to macos,
 
