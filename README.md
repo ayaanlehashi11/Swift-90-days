@@ -19,6 +19,7 @@ but the motivation of learning is same.
 here are some resource that i admire and helped alot in my swift learning journey
 
 - ## 1: Books
+
 - ### mastering swift 5
 ![swift2](https://user-images.githubusercontent.com/91608871/227193618-c747f1cb-14f0-48bd-a453-5b2a29662a85.jpg)
 
